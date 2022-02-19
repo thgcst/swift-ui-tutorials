@@ -1,10 +1,3 @@
-//
-//  LandmarkDetail.swift
-//  Landmarks
-//
-//  Created by Thiago Costa on 18/02/22.
-//
-
 import SwiftUI
 
 struct LandmarkDetail: View {
